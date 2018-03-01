@@ -1,0 +1,32 @@
+.form-group option {
+    content: '\f005';
+    font-family: fontAwesome;
+    color: red;
+}
+
+#rating {
+    content: '\f005';
+    font-family: fontAwesome;    
+}
+
+form {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    background: url(images.jpg) no-repeat;
+    background-size: cover;
+}
+
+.container {
+    position: center;
+    top: 60%;
+    left: 50%;
+    right: 50%;
+    width: 600px;          
+}
+
+.panel-body {
+    background: black;    
+}
+

@@ -1,0 +1,12 @@
+.subrating {
+    content: '\f005';
+    font-family: fontAwesome;
+    color: red;
+}
+
+.media-photo {
+    width: 35px;
+}
+
+
+
